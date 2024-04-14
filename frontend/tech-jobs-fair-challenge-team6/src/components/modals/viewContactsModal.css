@@ -1,0 +1,10 @@
+.divider {
+  margin: 0;
+}
+.label {
+  font-weight: bold;
+}
+
+.divider:last-child {
+  margin-bottom: 10px;
+}

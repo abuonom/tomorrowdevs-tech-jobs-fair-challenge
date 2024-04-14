@@ -1,0 +1,9 @@
+.navbar-logo {
+    font-family: sans-serif;
+    color: #f7f7f7;
+    font-size: 27px;
+}
+.search-box{
+    margin-left: 40px;
+    flex:1;
+}
